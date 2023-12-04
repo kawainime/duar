@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+{
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
+=======
+{
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
+>>>>>>> ebc54803ac27950483296c66d86ae32d6d653a84
